@@ -9,9 +9,9 @@
       </div>
       <!-- menu -->
       <div class=" hidden md:flex space-x-6 text-white">
-          <a href="#" class="hover:text-darkBlue">Discover</a>
-          <a href="#" class="hover:text-darkBlue">Browse</a>
-          <a href="#" class="hover:text-darkBlue">News</a>
+          <a href="#" class="hover:text-gray-800">Discover</a>
+          <a href="#" class="hover:text-gray-800">Browse</a>
+          <a href="#" class="hover:text-gray-800">News</a>
       </div>
       
       <!-- Left Side of Navbar -->
@@ -20,7 +20,7 @@
 
           <!-- Shopping Cart Dropdown -->
           <div class="text-center">
-            <a href="#" data-drawer-target="drawer-navigation" data-drawer-show="drawer-navigation" aria-controls="drawer-navigation"><img src="img/shopping-cart-01-svgrepo-com (1).svg" class="w-10 h-10 items-center hover:bg-gray-400 rounded-lg" alt="">
+            <a href="#" data-drawer-target="drawer-navigation" data-drawer-show="drawer-navigation" aria-controls="drawer-navigation"><img src="img/shopping-cart-01-svgrepo-com (1).svg" class="w-10 h-10 items-center hover:bg-gray-300 rounded-lg" alt="">
             </a>
          </div>
 

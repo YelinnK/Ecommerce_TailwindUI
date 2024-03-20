@@ -8,14 +8,14 @@
 
             <input type="text" class="w-full h-full text-white font-normal md:pl-2 focus:outline-none rounded-full bg-gray-700" placeholder="Search Store">
 
-            <button class="w-28 h-9 mx-1  flex justify-center items-center rounded-3xl text-white font-medium hover:text-darkBlue">Search</button>
+            <button class="w-28 h-9 mx-1  flex justify-center items-center rounded-3xl text-white font-medium hover:text-gray-800">Search</button>
 
         </section>
         
     </div>
     <span class="w-14 h-10 mx-2"> 
         <a href="#" >
-            <img src="img/adjustments-outlined-filters-svgrepo-com.svg" class="w-10 h-10 p-1 items-center hover:bg-gray-400 rounded-md" alt="">
+            <img src="img/adjustments-outlined-filters-svgrepo-com.svg" class="w-10 h-10 p-1 items-center hover:bg-gray-300 rounded-md" alt="">
         </a>
     </span>
 
