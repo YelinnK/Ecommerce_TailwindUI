@@ -1,6 +1,6 @@
 
 
-<nav class="relative mx-auto p-5 bg-darkGrayishBlue">
+<nav class="relative mx-auto p-5 bg-gray-500">
   <!-- Flex container -->
   <div class="flex items-center justify-between">
       <!-- Logo -->
