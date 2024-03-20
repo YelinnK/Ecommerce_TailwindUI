@@ -24,3 +24,7 @@ Route::get('/index', function () {
 Route::get('/details', function () {
     return view('productDetails');
 });
+
+Route::get('/test', function () {
+    return view('test');
+});

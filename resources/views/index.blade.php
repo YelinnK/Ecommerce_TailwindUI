@@ -234,7 +234,7 @@
         <div class="mx-10 max-w-7xl py-16  lg:max-w-none">
           <h2 class="text-2xl font-bold text-gray-900">Collections</h2>
     
-          <div class="mt-6 space-y-10 grid grid-cols-3 gap-x-6">
+          <div class="mt-6 space-y-10 grid grid-cols-3 gap-x-6 ">
             <div class="group relative">
               <div class="relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
                 <img src="img/mobile-legends-bang-bang.jpg" alt="Game Collections" class="h-full w-full object-contain object-center">
@@ -279,5 +279,4 @@
 
 </section>
 
-   
 @endsection

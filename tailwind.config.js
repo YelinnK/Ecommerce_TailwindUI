@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "resources/views/app.blade.php",
+    "resources/views/index.blade.php",
     "resources/views/test.blade.php",
     "resources/views/layout/app.blade.php",
     "resources/views/mainLandingPage.blade.php",
